@@ -1,0 +1,16 @@
+#output1, #output2, #output3 {
+    display: none;
+}
+
+#output3 {
+
+}
+h3{
+    background-color: rgb(204, 167, 167);
+    text-align: center;
+}
+.col-md-12{
+    background-color: rgb(204, 167, 167);
+    border-radius: 20px;
+    
+}
